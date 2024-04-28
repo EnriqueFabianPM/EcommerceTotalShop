@@ -1,8 +1,8 @@
 # Pagina Hecha con React + Vite como proyecto para 3er parcial de 5to tetramestre en la UTSC
 
 Si quiere más informacion, hablar con Enrique Fabian Perez Medellin en
-- [@CorreoPersonal](perezmedellinenriquefabian@gmail.com)
-- [CorreoEstudiantil](21024@virtual.utsc.edu.mx)
+- [Correo_Personal_Gmail](perezmedellinenriquefabian@gmail.com)
+- [Correo_Estudiantil_Outlook](21024@virtual.utsc.edu.mx)
 
 Currently, two official plugins are available:
 
