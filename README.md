@@ -1,6 +1,7 @@
-# React + Vite
+# Pagina Hecha con React + Vite como proyecto para 3er parcial de 5to tetramestre en la UTSC
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Si quiere más informacion, hablar con Enrique Fabian Perez Medellin en
+perezmedellinenriquefabian@gmailc.com
 
 Currently, two official plugins are available:
 
